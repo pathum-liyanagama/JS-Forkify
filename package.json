@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify fork to eat your favourite food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathum-liyanagama/JS-Forkify.git"
+  },
+  "author": "Pathum Liyanagama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathum-liyanagama/JS-Forkify/issues"
+  },
+  "homepage": "https://github.com/pathum-liyanagama/JS-Forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
